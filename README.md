@@ -1,6 +1,6 @@
 
 # 🗺️ Sistema de Relato de Catástrofes
-Contruimos um  sistema de linha de comando(CLI) para relato de catastrofesdentro de um raio de 10km apartir do ponto de referencia informado pelo usuário.
+Contruimos um  sistema de linha de comando(CLI) para relato de catastrofes. que devem estar dentro de um raio de 10km apartir do ponto de referência informado pelo usuário.
 
 # Autores
 - André Eduardo Martins  - 563297
