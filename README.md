@@ -51,7 +51,3 @@ Utilizamos a fórmula **Haversine** para calcular a distância geodésica entre 
 - Compilador C compatível com C99 ou superior
 - Sistema operacional com suporte a biblioteca padrão (`stdio.h`, `stdlib.h`, `string.h`, `math.h`, `time.h`)
 
-# Compilar
-
-```bash
-gcc -o sistema_catastrofe sistema_catastrofe.c -lm
