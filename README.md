@@ -1,6 +1,7 @@
 
 # 🗺️ Sistema de Relato de Catástrofes
-Contruimos um  sistema de linha de comando(CLI) para relato de catastrofes. que devem estar dentro de um raio de 10km a partir do ponto de referência informado pelo usuário.
+Contruimos um  sistema de linha de comando(CLI) para relato de catastrofes, que como condicional devem estar dentro de um raio de 10km a partir do ponto de referência informado pelo usuário.
+Esse sistema foi construido sem qualquer uso de bibliotecas externas puramente em C.
 
 # Autores
 - André Eduardo Martins  - 563297
@@ -11,7 +12,6 @@ Contruimos um  sistema de linha de comando(CLI) para relato de catastrofes. que 
 - Utilizamos arrays dinâmicos para gerenciar a memória de forma eficiente, ja que o número de relatores e relatos é desconhecido antecipadamente e deve responder a necessidade em tempo de execução.
 - Organizamos nossos itens em structures, e utilizamos ponteiros para alocação e atribuições.
 - Priorizamos a manutenibilidade e simplicidade com base no nosso conhecimento atual.
-- A linguagem para desenvolvimento do código escolhida por nós foi C.
 
 # Funcionalidades
 
